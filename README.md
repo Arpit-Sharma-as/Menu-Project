@@ -34,7 +34,7 @@ I wanted to create a one-stop solution for everyday tasks and add some fun eleme
 📌 How to Use:
 You can clone the repository, run the code on your local machine, and explore its capabilities. Feel free to suggest improvements and enhancements!
 
-🔗 GitHub Repository: []
+🔗 GitHub Repository: [https://github.com/Arpit-Sharma-as/Menu-Project.git]
 
 I'd love to hear your feedback and suggestions. Let's make this project even better together! 🙌
 
